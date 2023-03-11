@@ -8,7 +8,9 @@ questions=(
 )
 
 # Display the rules
-echo "Hello & Welcome to AWS Jeporady!! You will be asked 3 questions."
+echo "Hello & Welcome to AWS Jeporady!!"
+sleep 1
+echo "You will be asked 3 questions."
 sleep 1
 echo "Each correct answer is worth 10 points and each incorrect answer is worth -5 points."
 
