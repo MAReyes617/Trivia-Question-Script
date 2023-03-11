@@ -13,6 +13,7 @@ sleep 1
 echo "You will be asked 3 questions."
 sleep 1
 echo "Each correct answer is worth 10 points and each incorrect answer is worth -5 points."
+sleep 1
 
 # Start the game
 score=0
