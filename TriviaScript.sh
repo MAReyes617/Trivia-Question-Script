@@ -5,12 +5,13 @@ questions=(
   "What does the pwd command do?|A. Location in Directoy|B. Shows Password|C. Passes to word doc|D. Copies files to folder|A"
   "What is NOT a loop?|A. While|B. If|C. Until|D. For|B"
   "What does the chmod command do?|A. Change permissions|B. Change monitors|C. Change users|D. Change shell|A"
+  "What does the mv command do?|A. copy document|B. move document|C. migrates document|D. verify document|B" 
 )
 
 # Display the rules
 echo "Hello & Welcome to AWS Jeporady!!"
 sleep 1
-echo "You will be asked 3 questions."
+echo "You will be asked questions about linux."
 sleep 1
 echo "Each correct answer is worth 10 points and each incorrect answer is worth -5 points."
 sleep 1
